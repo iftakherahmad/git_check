@@ -5,4 +5,6 @@ package net.therap.git_check;
  * @since 1/25/22
  */
 public class ABC {
+    public int a;
+    public int b;
 }
